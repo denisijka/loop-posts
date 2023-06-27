@@ -1,1 +1,5 @@
+https://siaivil.com.ua/category/blog/
 
+loop-posts.php - це файл в якому всі пости
+page-blog.php  - це сам пост(сінгл)
+archive.php - це сама оболочка цих постів wrap-posts
